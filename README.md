@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend development**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-eight-mocha-83.vercel.app/](https://portfolio-eight-mocha-83.vercel.app/)
+- 👨‍💻 Portfolio [https://portfolio-eight-mocha-83.vercel.app/](https://portfolio-kappa-ivory-32.vercel.app/)
 
 - 📫 How to reach me **datatezelashvili8@gmail.com**
 
