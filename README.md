@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **datatezelashvili8@gmail.com**
 
-- ⚡ Fun fact **I like to workout**
+- ⚡ Fun fact: **I like to workout**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
