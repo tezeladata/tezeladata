@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tezeladata&show_icons=true&theme=dark&locale=en" alt="tezeladata" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tezeladata&" alt="tezeladata" /></p>
+
+![github](https://github.com/user-attachments/assets/3c356e87-7efa-4bad-bc41-8dfd70e8fd0c)
